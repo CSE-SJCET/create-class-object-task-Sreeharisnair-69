@@ -16,7 +16,7 @@ public class Main {
            student.name="John";
            student.rollNumber=50;
            student.grade='A';
-           displayDetails();
+           student.displayDetails();
         // TODO: Create a Student object and call the method to display details
     }
 }
